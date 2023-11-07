@@ -1,0 +1,12 @@
+
+
+.#{$fa-css-prefix} {
+  display: inline-block;
+  font: normal normal normal #{$fa-font-size-base}/1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transform: translate(0, 0);
+
+}
